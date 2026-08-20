@@ -46,7 +46,7 @@ COVERS_SPEC = [
         "kicker": "THE WUMP INSTITUTE  ·  VOLUME III",
         "title": ["WUMP", "MECHANICS"],
         "subtitle": "Compression, release, and the\nthermodynamics of lived intensity",
-        "footer": "A scientific inquiry into invented quantities",
+        "footer": "A scientific inquiry into the elastic universe",
         "scrim": "light",
     },
     {

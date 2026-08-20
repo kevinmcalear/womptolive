@@ -245,7 +245,7 @@ def build_book(book):
     story.append(PageBreak())
 
     story.append(Spacer(1, 0.6 * inch))
-    story.append(p("A NOTE ON METHOD", S["h2"]))
+    story.append(p("A NOTE TO THE READER", S["h2"]))
     for para in book["disclaimer"]:
         story.append(p(para, S["body_first"] if para == book["disclaimer"][0] else S["body"]))
     story.append(Spacer(1, 0.3 * inch))
