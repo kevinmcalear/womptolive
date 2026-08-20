@@ -4,10 +4,13 @@
 import sys
 from pathlib import Path
 
+from io import BytesIO
+
 from reportlab.lib.colors import HexColor
 from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY, TA_RIGHT
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.lib.units import inch
+from reportlab.lib.utils import ImageReader
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.platypus import (
@@ -26,6 +29,7 @@ from library import BOOKS
 
 ROOT = Path(__file__).resolve().parents[1]
 EBOOKS = ROOT / "ebooks"
+COVERS = ROOT / "covers"
 
 pdfmetrics.registerFont(TTFont("Caslon", "/System/Library/Fonts/Supplemental/BigCaslon.ttf"))
 pdfmetrics.registerFont(TTFont("Times", "/System/Library/Fonts/Supplemental/Times New Roman.ttf"))
@@ -190,7 +194,7 @@ def header_footer(book):
         canvas.saveState()
         canvas.setFillColor(CREAM)
         canvas.rect(0, 0, PAGE_W, PAGE_H, fill=1, stroke=0)
-        if doc.page > 1:
+        if doc.page > 2:
             canvas.setStrokeColor(RULE)
             canvas.setLineWidth(0.4)
             canvas.line(0.75 * inch, PAGE_H - 0.55 * inch, PAGE_W - 0.75 * inch, PAGE_H - 0.55 * inch)
@@ -205,6 +209,36 @@ def header_footer(book):
     return draw
 
 
+def cover_image(cover_path: Path) -> ImageReader:
+    from PIL import Image
+
+    im = Image.open(cover_path).convert("RGB")
+    im = im.resize((1080, 1620), Image.Resampling.LANCZOS)
+    buf = BytesIO()
+    im.save(buf, "JPEG", quality=86, optimize=True)
+    buf.seek(0)
+    return ImageReader(buf)
+
+
+def draw_cover(cover_path: Path):
+    reader = cover_image(cover_path)
+
+    def draw(canvas, doc):
+        canvas.saveState()
+        canvas.drawImage(
+            reader,
+            0,
+            0,
+            width=PAGE_W,
+            height=PAGE_H,
+            preserveAspectRatio=True,
+            anchor="c",
+        )
+        canvas.restoreState()
+
+    return draw
+
+
 def p(text, style):
     return Paragraph(text.replace("\n", "<br/>"), style)
 
@@ -214,13 +248,18 @@ def build_book(book):
     path = EBOOKS / f"{book['slug']}.pdf"
     EBOOKS.mkdir(exist_ok=True)
 
+    cover_path = COVERS / f"{book['slug']}.png"
+    if not cover_path.exists():
+        raise FileNotFoundError(f"Missing cover: {cover_path}")
+
     doc = BaseDocTemplate(
         str(path),
         pagesize=(PAGE_W, PAGE_H),
         title=book["title"],
         author="The Wump Institute",
-        subject=book["subtitle"],
+        subject=book["subtitle"].replace("<br/>", " "),
     )
+    cover_frame = Frame(0, 0, PAGE_W, PAGE_H, id="cover", leftPadding=0, rightPadding=0, topPadding=0, bottomPadding=0)
     frame = Frame(
         0.8 * inch,
         0.75 * inch,
@@ -229,9 +268,17 @@ def build_book(book):
         id="normal",
         showBoundary=0,
     )
-    doc.addPageTemplates([PageTemplate(id="book", frames=frame, onPage=header_footer(book))])
+    doc.addPageTemplates(
+        [
+            PageTemplate(id="cover", frames=cover_frame, onPage=draw_cover(cover_path)),
+            PageTemplate(id="book", frames=frame, onPage=header_footer(book)),
+        ]
+    )
 
     story = []
+    story.append(NextPageTemplate("book"))
+    story.append(Spacer(1, 1))
+    story.append(PageBreak())
     story.append(Spacer(1, 1.15 * inch))
     story.append(p("THE WUMP INSTITUTE", S["kicker"]))
     story.append(Spacer(1, 0.18 * inch))
