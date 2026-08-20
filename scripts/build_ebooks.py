@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Compose the three Womp Institute treatises as paginated PDFs."""
+"""Compose the Wump Institute treatises as paginated PDFs."""
 
 import sys
 from pathlib import Path
@@ -218,7 +218,7 @@ def build_book(book):
         str(path),
         pagesize=(PAGE_W, PAGE_H),
         title=book["title"],
-        author="The Womp Institute",
+        author="The Wump Institute",
         subject=book["subtitle"],
     )
     frame = Frame(
@@ -233,7 +233,7 @@ def build_book(book):
 
     story = []
     story.append(Spacer(1, 1.15 * inch))
-    story.append(p("THE WOMP INSTITUTE", S["kicker"]))
+    story.append(p("THE WUMP INSTITUTE", S["kicker"]))
     story.append(Spacer(1, 0.18 * inch))
     story.append(p(book["title"], S["title"]))
     story.append(p(book["subtitle"], S["subtitle"]))
@@ -249,7 +249,7 @@ def build_book(book):
     for para in book["disclaimer"]:
         story.append(p(para, S["body_first"] if para == book["disclaimer"][0] else S["body"]))
     story.append(Spacer(1, 0.3 * inch))
-    story.append(p("Published by the Institute for Applied Whomping<br/>First edition, 2026", S["center_i"]))
+    story.append(p("Published by the Institute for Applied Whumping<br/>First edition, 2026", S["center_i"]))
     story.append(PageBreak())
 
     story.append(Spacer(1, 0.35 * inch))
@@ -280,7 +280,7 @@ def build_book(book):
             blocks += [p(ch["epigraph"], S["epigraph"]), Spacer(1, 0.12 * inch)]
         for i, para in enumerate(ch["body"]):
             blocks.append(p(para, S["body_first"] if i == 0 else S["body"]))
-        blocks.append(p(f"Womp Maxim. {ch['maxim']}", S["maxim"]))
+        blocks.append(p(f"Wump Maxim. {ch['maxim']}", S["maxim"]))
         blocks.append(p(f"Field exercise. {ch['exercise']}", S["exercise"]))
         story.append(KeepTogether(blocks[:3]))
         story.extend(blocks[3:])
@@ -308,7 +308,7 @@ def build_book(book):
     story.append(Spacer(1, 0.28 * inch))
     story.append(p(book["final_line"], S["maxim"]))
     story.append(Spacer(1, 0.4 * inch))
-    story.append(p("There is no final womp. There is only the practice of returning.", S["center_i"]))
+    story.append(p("There is no final wump. There is only the practice of returning.", S["center_i"]))
     story.append(Spacer(1, 0.5 * inch))
     story.append(p("END OF VOLUME", S["kicker"]))
 

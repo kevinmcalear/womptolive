@@ -2,7 +2,7 @@ const form = document.getElementById("signup");
 const thanks = document.getElementById("thanks");
 const seats = document.getElementById("seats");
 
-const KEY = "womp-institute-signups";
+const KEY = "wump-institute-signups";
 
 function encode(data) {
   return Object.keys(data)

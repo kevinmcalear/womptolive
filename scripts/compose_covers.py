@@ -17,45 +17,45 @@ NEWYORK = "/System/Library/Fonts/NewYork.ttf"
 
 COVERS_SPEC = [
     {
-        "src": "cover-the-womp-life.png",
-        "out": "the-womp-life",
+        "src": "cover-the-wump-life.png",
+        "out": "the-wump-life",
         "ink": (28, 24, 18),
         "rule": (110, 86, 48),
-        "kicker": "THE WOMP INSTITUTE  ·  VOLUME I",
-        "title": ["THE", "WOMP LIFE"],
-        "subtitle": "Whomping, Whomping to Live,\nand the Mathematics of the Great Womp",
+        "kicker": "THE WUMP INSTITUTE  ·  VOLUME I",
+        "title": ["THE", "WUMP LIFE"],
+        "subtitle": "Whumping, Whumping to Live,\nand the Mathematics of the Great Wump",
         "footer": "A field guide for inhabited time",
         "scrim": "light",
     },
     {
-        "src": "cover-the-unseen-womp.png",
-        "out": "the-unseen-womp",
+        "src": "cover-the-unseen-wump.png",
+        "out": "the-unseen-wump",
         "ink": (244, 236, 214),
         "rule": (196, 164, 96),
-        "kicker": "THE WOMP INSTITUTE  ·  VOLUME II",
-        "title": ["THE", "UNSEEN WOMP"],
-        "subtitle": "A spiritual treatise on the soul’s rebound\nand the quiet practice of inner whomping",
+        "kicker": "THE WUMP INSTITUTE  ·  VOLUME II",
+        "title": ["THE", "UNSEEN WUMP"],
+        "subtitle": "A spiritual treatise on the soul’s rebound\nand the quiet practice of inner whumping",
         "footer": "For the chamber no one else can hear",
         "scrim": "dark",
     },
     {
-        "src": "cover-womp-mechanics.png",
-        "out": "womp-mechanics",
+        "src": "cover-wump-mechanics.png",
+        "out": "wump-mechanics",
         "ink": (18, 32, 58),
         "rule": (140, 72, 36),
-        "kicker": "THE WOMP INSTITUTE  ·  VOLUME III",
-        "title": ["WOMP", "MECHANICS"],
+        "kicker": "THE WUMP INSTITUTE  ·  VOLUME III",
+        "title": ["WUMP", "MECHANICS"],
         "subtitle": "Compression, release, and the\nthermodynamics of lived intensity",
         "footer": "A scientific inquiry into invented quantities",
         "scrim": "light",
     },
     {
-        "src": "cover-annals-of-whomping.png",
-        "out": "the-annals-of-whomping",
+        "src": "cover-annals-of-whumping.png",
+        "out": "the-annals-of-whumping",
         "ink": (62, 38, 18),
         "rule": (132, 84, 36),
-        "kicker": "THE WOMP INSTITUTE  ·  VOLUME IV",
-        "title": ["THE ANNALS OF", "WHOMPING"],
+        "kicker": "THE WUMP INSTITUTE  ·  VOLUME IV",
+        "title": ["THE ANNALS OF", "WHUMPING"],
         "subtitle": "From the first drum to the present pulse:\na history of humanity’s oldest undocumented practice",
         "footer": "Scholars disagree. The drum does not.",
         "scrim": "light",
@@ -168,9 +168,9 @@ def main() -> None:
     hero.resize((1600, 1067), Image.Resampling.LANCZOS).save(
         WEB / "hero-institute.jpg", "JPEG", quality=84, optimize=True
     )
-    emblem = Image.open(ASSETS / "emblem-womp.png").convert("RGB")
+    emblem = Image.open(ASSETS / "emblem-wump.png").convert("RGB")
     emblem.resize((320, 320), Image.Resampling.LANCZOS).save(
-        WEB / "emblem-womp.jpg", "JPEG", quality=85, optimize=True
+        WEB / "emblem-wump.jpg", "JPEG", quality=85, optimize=True
     )
     print("hero and emblem exported")
 
