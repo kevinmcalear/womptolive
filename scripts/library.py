@@ -12,19 +12,19 @@ book(
     slug="the-wump-life",
     title="THE WUMP LIFE",
     running="THE WUMP LIFE",
-    subtitle="Whumping, Whumping to Live, and the<br/>Mathematics of the Great Wump",
+    subtitle="Wumping, Wumping to Live, and the<br/>Mathematics of the Great Wump",
     volume="Volume I of the Wump To Live Library",
     accent="#8a6a32",
     disclaimer=[
-        "This book treats whumping with the seriousness reserved for migration, thermodynamics, and maritime law. The central proposition is useful: people need periodic experiences of effort, novelty, release, connection, and return. Here we call the combined phenomenon the wump.",
+        "This book treats wumping with the seriousness reserved for migration, thermodynamics, and maritime law. The central proposition is useful: people need periodic experiences of effort, novelty, release, connection, and return. Here we call the combined phenomenon the wump.",
         "The shark is used as a figure of motion: stagnation feels dangerous, movement restorative. The field equations that follow are operational models for interval, intensity, and recovery, written so a life can be maintained.",
     ],
-    preface_epigraph="A life without whumping is merely time passing.",
+    preface_epigraph="A life without wumping is merely time passing.",
     preface_attr="First Principle of the Institute",
     preface=[
         "A wump is not merely an event. It is a unit of lived intensity: the moment when ordinary existence compresses, rebounds, and announces itself with unmistakable force. One may wump physically, socially, spiritually, rhythmically, or in the quiet privacy of one’s own internal wump chamber.",
         "This volume is the field guide. The later books will take you into the soul, the laboratory, and the archive. Here we stay with the practice itself: how a wump begins, how it completes, and how a person keeps from forgetting the sensation of being inhabited.",
-        "The mature whumper stops asking, ‘How do I maximize wump?’ and asks, ‘What rhythm of intensity and recovery makes my life feel occupied from the inside?’ This is the difference between collecting peaks and developing a pulse.",
+        "The mature wumper stops asking, ‘How do I maximize wump?’ and asks, ‘What rhythm of intensity and recovery makes my life feel occupied from the inside?’ This is the difference between collecting peaks and developing a pulse.",
         "If you have arrived expecting a personality, we must disappoint you. If you have arrived expecting a pulse, you are in the right interval.",
     ],
     chapters=[
@@ -32,8 +32,8 @@ book(
             "title": "The Wump Instinct",
             "epigraph": "Stagnation feels dangerous. Movement, restorative.",
             "body": [
-                "Some sharks must keep water moving across their gills. The whumper takes the lesson without confusion: stillness that lasts too long begins to feel like disappearance. Motion, even small motion, returns a person to themselves.",
-                "Whumping begins with pressure. Something accumulates: boredom, energy, anticipation, curiosity, or the faint suspicion that Tuesday has become too Tuesday. The novice treats this pressure as a defect. The practitioner treats it as a fuse.",
+                "Some sharks must keep water moving across their gills. The wumper takes the lesson without confusion: stillness that lasts too long begins to feel like disappearance. Motion, even small motion, returns a person to themselves.",
+                "Wumping begins with pressure. Something accumulates: boredom, energy, anticipation, curiosity, or the faint suspicion that Tuesday has become too Tuesday. The novice treats this pressure as a defect. The practitioner treats it as a fuse.",
                 "Small wumps matter. A walk taken for no reason, a joke pursued far beyond reasonable limits, a meal cooked with theatrical seriousness, a project suddenly begun at 11:47 p.m. — these are micro-wumps. They keep the system elastic between major events.",
                 "You do not need a festival. You need a complete cycle: compression, release, recovery. A life that skips any of the three will eventually feel like a story with the middle torn out.",
             ],
@@ -42,7 +42,7 @@ book(
         },
         {
             "title": "Anatomy of a Proper Wump",
-            "epigraph": "The novice thinks the wump is noise. The experienced whumper knows it is contrast.",
+            "epigraph": "The novice thinks the wump is noise. The experienced wumper knows it is contrast.",
             "body": [
                 "A proper wump has three movements, whether anyone writes them down or not. First, compression: the gathering. Second, release: the announcement. Third, recovery: the interval in which the announcement becomes memory instead of debris.",
                 "People skip the first movement by detonating too early. They skip the third by stacking events until the nervous system can no longer tell one peak from the next. Both errors produce the same hangover: the feeling of having been busy without having been there.",
@@ -77,7 +77,7 @@ book(
             "exercise": "Look at the next seven days. Circle one empty-looking hour. Protect it as recovery or as a micro-wump, not as a slot to be filled with errands.",
         },
         {
-            "title": "Social Whumping",
+            "title": "Social Wumping",
             "epigraph": "Two people can wump in phase. This is called dancing, a good meeting, or love.",
             "body": [
                 "A private wump can save a person. A shared wump can save a night. The danger is arriving at someone else’s peak with your own already in progress, or detonating in a kitchen because you have stored too much Tuesday.",
@@ -109,7 +109,7 @@ book(
                 "This is the mathematics of the Great Wump, such as it is: minimize oblivion, not boredom. Boredom is compression and can be used. Oblivion is a measurement outage. You cannot steer by a gauge that has gone dark.",
                 "Keep humor and seriousness in the same pocket. Either one alone will make you impossible to live with, including for yourself.",
             ],
-            "maxim": "A life without whumping is merely time passing — even if the graphs look busy.",
+            "maxim": "A life without wumping is merely time passing — even if the graphs look busy.",
             "exercise": "Sketch your last fourteen days as peaks and rests only. Where is the longest flatline? That interval is your next experimental site. Do not fill it with spectacle. Fill it with a complete small cycle.",
         },
         {
@@ -156,7 +156,7 @@ book(
     slug="the-unseen-wump",
     title="THE UNSEEN WUMP",
     running="THE UNSEEN WUMP",
-    subtitle="A spiritual treatise on the soul’s rebound<br/>and the quiet practice of inner whumping",
+    subtitle="A spiritual treatise on the soul’s rebound<br/>and the quiet practice of inner wumping",
     volume="Volume II of the Wump To Live Library",
     accent="#6e2c24",
     disclaimer=[
@@ -164,9 +164,9 @@ book(
         "The practices here belong to attention, breath, and interval. They are offered as a manual for contact, not as a replacement for medical care or for any tradition you already keep.",
     ],
     preface_epigraph="What is silent is not empty. It is loading.",
-    preface_attr="Anonymous whumper, overheard in a stairwell",
+    preface_attr="Anonymous wumper, overheard in a stairwell",
     preface=[
-        "Most people first meet the wump as noise: a laugh that goes too far, a decision made at 11:47 p.m., a conversation that suddenly has weather in it. Those are public whumps. They leave evidence. They can be photographed, poorly.",
+        "Most people first meet the wump as noise: a laugh that goes too far, a decision made at 11:47 p.m., a conversation that suddenly has weather in it. Those are public wumps. They leave evidence. They can be photographed, poorly.",
         "This book concerns the other kind. The unseen wump occurs in the inner chamber — that unadvertised room behind the face where a person negotiates with their own aliveness. It is the compression before a true sentence. It is the rebound after grief has sat down without asking. It is the small, unfashionable moment in which you become present enough to be changed by an ordinary Tuesday.",
         "Spiritual language is dangerous because it likes to become furniture. We will use it anyway, carefully, the way one uses a candle in a wooden house. The claim is modest: a life needs intervals of interior intensity. Without them, even a crowded week is a kind of disappearance.",
         "If you have come here hoping for a personality, we must disappoint you. The Institute does not require a guru. It requires a pulse. The rest is practice.",
@@ -189,7 +189,7 @@ book(
             "epigraph": "A brittle soul does not need more advice. It needs rebound.",
             "body": [
                 "Let us speak of the soul the way a cooper speaks of a barrel: not as a cloud, but as a vessel expected to hold weather. An elastic soul expands under joy without bursting, and contracts under difficulty without cracking. A brittle soul does neither. It maintains a permanent expression of competence until it does not.",
-                "Elasticity is trained. It is trained by small whumps performed fully: a walk taken for no reason, a letter written and actually sent, a cry that is not immediately translated into a task. Each complete cycle — compression, release, recovery — reminds the vessel that it can return to shape.",
+                "Elasticity is trained. It is trained by small wumps performed fully: a walk taken for no reason, a letter written and actually sent, a cry that is not immediately translated into a task. Each complete cycle — compression, release, recovery — reminds the vessel that it can return to shape.",
                 "People who live only at the surface imagine that spirituality is a kind of interior interior decorating. They collect calm the way others collect luggage tags. Calm is useful. Calm is not the point. The point is that the vessel can take a hit of meaning and still be a vessel afterward.",
                 "If your inner life has become a museum of unfelt days, you do not need a more interesting personality. You need a wump that is sincere enough to move the air. Sincerity, in this usage, is not confession for an audience. It is contact.",
             ],
@@ -197,7 +197,7 @@ book(
             "exercise": "Choose one ordinary act today — making coffee, locking a door, saying goodnight — and perform it as if it were a rite. Increase the spirit of it by exactly 7%. Do not announce this to anyone.",
         },
         {
-            "title": "Breath as the Smallest Whumping",
+            "title": "Breath as the Smallest Wumping",
             "epigraph": "Inhale is compression. Exhale is faith.",
             "body": [
                 "Before there were drums, there were lungs. The breath is the most democratic wump on earth. It requires no equipment, no weekend, and no permission from a calendar that has already decided you are busy.",
@@ -212,10 +212,10 @@ book(
             "title": "The False Wump of Performance",
             "epigraph": "An audience can witness a wump. It cannot complete one for you.",
             "body": [
-                "There exists a counterfeit intensity that looks, from a distance, like whumping. It is the story told too soon. It is the feeling announced before it has finished arriving. It is the retreat, the post, the sudden personality of someone who would like to be seen having an inner life without the inconvenience of having one.",
-                "Performance is not evil. Theater is one of humanity’s great whumps. The error is using the stage as a substitute for the chamber. When every compression is immediately converted into content, nothing is allowed to ripen. The rebound happens in public and therefore does not happen at all.",
+                "There exists a counterfeit intensity that looks, from a distance, like wumping. It is the story told too soon. It is the feeling announced before it has finished arriving. It is the retreat, the post, the sudden personality of someone who would like to be seen having an inner life without the inconvenience of having one.",
+                "Performance is not evil. Theater is one of humanity’s great wumps. The error is using the stage as a substitute for the chamber. When every compression is immediately converted into content, nothing is allowed to ripen. The rebound happens in public and therefore does not happen at all.",
                 "You will recognize the false wump by its hangover. A true inner wump leaves you quieter and more available. A performed wump leaves you hungry for confirmation. The first feeds the pulse. The second feeds the brand.",
-                "This is delicate, because some lives are genuinely witnessed, and witnessing can be holy. The test is simple enough to be unfashionable: after the noise, are you more able to love the next ordinary hour? If not, you have not whumped. You have advertised.",
+                "This is delicate, because some lives are genuinely witnessed, and witnessing can be holy. The test is simple enough to be unfashionable: after the noise, are you more able to love the next ordinary hour? If not, you have not wumped. You have advertised.",
             ],
             "maxim": "Never confuse being witnessed with being changed.",
             "exercise": "Keep one good thing that happens this week entirely to yourself for twenty-four hours. Notice whether it becomes more real or less. That difference is data.",
@@ -236,19 +236,19 @@ book(
             "title": "The Dark Night of Unwumpedness",
             "epigraph": "Stagnation is not peace. Peace has a pulse.",
             "body": [
-                "There comes a season when the inner chamber feels vacated. The old whumps no longer move the air. The jokes have a tax on them. Even beauty arrives like mail for a previous tenant. This is not a failure of character. It is a failure of interval.",
+                "There comes a season when the inner chamber feels vacated. The old wumps no longer move the air. The jokes have a tax on them. Even beauty arrives like mail for a previous tenant. This is not a failure of character. It is a failure of interval.",
                 "Unwumpedness is often misdiagnosed as maturity. The person becomes very good at logistics and very poor at inhabiting their own hours. Friends say they seem ‘fine,’ which is the most alarming of the polite words. Fine is what a pulse says when it has been asked to stop making trouble.",
-                "The spiritual task here is not to manufacture a peak. Manufactured peaks are how people injure themselves in the name of aliveness. The task is to restore micro-whumps until the vessel remembers elasticity: a window opened, a song finished, a walk with no podcast, a meal cooked with theatrical seriousness for no guest.",
+                "The spiritual task here is not to manufacture a peak. Manufactured peaks are how people injure themselves in the name of aliveness. The task is to restore micro-wumps until the vessel remembers elasticity: a window opened, a song finished, a walk with no podcast, a meal cooked with theatrical seriousness for no guest.",
                 "If the darkness is clinical, seek the kind of help that does not come from a manifesto. The Institute is serious about play and equally serious about not pretending that play replaces care. A wump is not a treatment. It is a practice for when treatment has made a little room.",
             ],
             "maxim": "If the wump becomes compulsory, reduce pressure and restore play.",
-            "exercise": "Identify one thing this week that is merely happening and one thing that could be deliberately whumped. Do not choose the dramatic one. Choose the smaller one, and complete it.",
+            "exercise": "Identify one thing this week that is merely happening and one thing that could be deliberately wumped. Do not choose the dramatic one. Choose the smaller one, and complete it.",
         },
         {
             "title": "Forgiveness as a Delayed Rebound",
-            "epigraph": "Some whumps arrive years late, wearing ordinary clothes.",
+            "epigraph": "Some wumps arrive years late, wearing ordinary clothes.",
             "body": [
-                "Forgiveness is among the slowest whumps. It cannot be scheduled with the optimism of a calendar invitation. It is a rebound that waited in the chamber until the vessel was elastic enough not to shatter on the way out.",
+                "Forgiveness is among the slowest wumps. It cannot be scheduled with the optimism of a calendar invitation. It is a rebound that waited in the chamber until the vessel was elastic enough not to shatter on the way out.",
                 "People treat forgiveness as a moral exam. It is closer to physics. Something was compressed — harm, humiliation, a promise that did not keep its shape. The energy did not vanish. It sat. A delayed rebound is not weakness. It is the system refusing to explode on the original timetable.",
                 "You are not required to call this holy. You are required, if you wish to remain inhabited, not to confuse rumination with remembrance. Rumination is compression without release. Remembrance is compression that has been allowed to become meaning.",
                 "Sometimes the rebound is toward the other person. Sometimes it is toward your own future, which would like to stop living in a museum of the injury. Both can be unseen. Both count.",
@@ -262,7 +262,7 @@ book(
             "body": [
                 "The unseen wump is private, but it is not private property. Anyone who has sat beside a person in honest silence knows that interiors can touch without exhibition. Grief does this. So does laughter that arrives before language. So does a congregation that, for one hymn, remembers it is one animal with many lungs.",
                 "We call this communion not to steal a church’s furniture but because no other word quite admits that separate chambers can share weather. You cannot force it. You can only become less armored, which is not the same as becoming less boundaried. Armor is what you wear when you have confused safety with disappearance.",
-                "A spiritual life that never leaves the chamber becomes a hobby. A spiritual life that never enters the chamber becomes a crowd. The mature whumper learns the interval between solitude and company the way a musician learns bars of rest.",
+                "A spiritual life that never leaves the chamber becomes a hobby. A spiritual life that never enters the chamber becomes a crowd. The mature wumper learns the interval between solitude and company the way a musician learns bars of rest.",
                 "If you are lonely, the answer may not be more people. It may be one person, or one place, with whom your unseen wump does not have to lie about its size.",
             ],
             "maxim": "A scheduled gathering may still be sincere.",
@@ -272,7 +272,7 @@ book(
             "title": "Ethics of the Quiet Rebound",
             "epigraph": "Your inner wump is yours. Its weather is not only yours.",
             "body": [
-                "Because the unseen wump is invisible, people sometimes treat it as consequence-free. This is an error. A person who whumps internally by inventing enemies will export that weather. A person who whumps by becoming present will export a different weather. The chamber has a chimney.",
+                "Because the unseen wump is invisible, people sometimes treat it as consequence-free. This is an error. A person who wumps internally by inventing enemies will export that weather. A person who wumps by becoming present will export a different weather. The chamber has a chimney.",
                 "Spiritual practice without ethics is just mood management with better lighting. The Institute’s position is embarrassingly simple: an inner wump that requires someone else to become smaller is not a wump. It is a theft wearing incense.",
                 "The opposite error is also common — refusing all intensity lest it disturb the room. That is not goodness. That is a life conducted at such low volume that even kindness cannot be heard. You are allowed to have a pulse in public, provided the pulse does not need a victim.",
                 "Before a large inner release, ask a question so plain it feels beneath literature: will this make me more available to the living? If the answer is no, wait. Waiting is also a spiritual technology.",
@@ -285,7 +285,7 @@ book(
             "epigraph": "There is no final silence. There is only the next honest breath.",
             "body": [
                 "A spiritual life organized around a single great wump — conversion, collapse, revelation, the weekend that finally explained you — will eventually starve. The horizon is not an event. It is a direction. You live toward the next sincere interval the way a swimmer lives toward air.",
-                "This is the quietest possible ambition: not to become impressive, but to remain inhabitable. To keep the vessel elastic. To let small whumps keep the system from forgetting what contact feels like. To recover. To return.",
+                "This is the quietest possible ambition: not to become impressive, but to remain inhabitable. To keep the vessel elastic. To let small wumps keep the system from forgetting what contact feels like. To recover. To return.",
                 "If there is a sacred image in this book, let it be unspectacular. A person in a kitchen. Evening. The day has been too much or not enough. They stand still long enough for the chamber to report the truth. Then they do the next kind thing, which may be rest.",
                 "The unseen wump will not put your name on a building. It may, however, put you back inside your hours. That is the entire miracle, and it is enough.",
             ],
@@ -316,7 +316,7 @@ book(
         "You will not finish this practice. You will only return to it, which is the same thing the breath has been telling you since the first hour you were alive.",
         "Keep the chamber. Keep the pulse. Keep the seriousness of treating your own interior as a place worthy of care. Then go back to the dishes. The dishes, correctly understood, are also the path.",
     ],
-    final_line="A life without inner whumping is merely time passing in a nicer room.",
+    final_line="A life without inner wumping is merely time passing in a nicer room.",
 )
 
 
@@ -332,7 +332,7 @@ book(
         "The shark is used as a figure of necessary motion. A life that does not re-enter the current after rest begins to disappear. Cite the models wherever a laboratory of ordinary days requires a unit.",
     ],
     preface_epigraph="If you cannot measure it, you may still be having it.",
-    preface_attr="Lab note, Institute for Applied Whumping",
+    preface_attr="Lab note, Institute for Applied Wumping",
     preface=[
         "Science, at its best, is a method for not lying to yourself in public. Wump mechanics is a method for not lying to yourself in private, using the instruments of science because a pulse deserves measurement.",
         "We begin with a unit. A wump, W, is a pulse of lived intensity: compression, release, and the recovery that makes the event rememberable. It is not identical with excitement, exercise, trauma, or a good party, though any of those may host one. The wump is the moment existence announces itself with unmistakable force and then, if you are lucky, lets you put the announcement down.",
@@ -358,10 +358,10 @@ book(
             "body": [
                 "Compression is the gathering of unused life. Boredom is compression. Anticipation is compression. The suspicion that your calendar has replaced your pulse is compression. In mechanical terms, you are loading a spring. In human terms, you are becoming tired of your own impersonation of a person.",
                 "Novices treat compression as a defect to be anesthetized. They add inputs: screens, snacks, opinions. This is like holding a spring down with more furniture. The stored force does not vanish. It changes the furniture.",
-                "Useful compression has a direction. It wants a release that answers it. Hunger wants food, not a speech about food. Loneliness wants contact, not a theory of contact. The mature whumper asks, ‘What is this pressure for?’ rather than ‘How do I make this pressure stop existing?’",
+                "Useful compression has a direction. It wants a release that answers it. Hunger wants food, not a speech about food. Loneliness wants contact, not a theory of contact. The mature wumper asks, ‘What is this pressure for?’ rather than ‘How do I make this pressure stop existing?’",
                 "There is a limit. Springs yield. People yield. If compression has become panic, you are no longer in the poetic chapter. You are in the chapter where you reduce load and seek actual help. Mechanics includes knowing when the model no longer applies.",
             ],
-            "maxim": "Whumping begins with pressure. Do not be ashamed of the gathering.",
+            "maxim": "Wumping begins with pressure. Do not be ashamed of the gathering.",
             "exercise": "Locate one current compression. Write a single sentence stating what release it might be asking for. If you cannot tell, the experiment is to wait, not to detonate.",
         },
         {
@@ -394,7 +394,7 @@ book(
             "body": [
                 "A wump, plotted over time, is a waveform: a rise, a peak, a fall, a rest. People who fear rest clip the waveform and wonder why their lives sound like a broken speaker. Rest is not the absence of the signal. Rest is part of the signal.",
                 "Resonance occurs when an external rhythm matches a system’s natural frequency. This is why the right song can reorganize a kitchen. It is why the wrong job can make even weekends feel like a mis-tuned instrument. You are not ‘too sensitive.’ You are a physical object in a vibrating world.",
-                "Phase matters. Arrive too early to someone else’s wump and you become friction. Arrive too late and you become audience to a fire already out. Properly timed whumps — including the social kind — are an applied science of phase. Conflict, as the seminars will argue, is often two waveforms refusing to make room for each other’s peaks.",
+                "Phase matters. Arrive too early to someone else’s wump and you become friction. Arrive too late and you become audience to a fire already out. Properly timed wumps — including the social kind — are an applied science of phase. Conflict, as the seminars will argue, is often two waveforms refusing to make room for each other’s peaks.",
                 "You cannot force resonance. You can clear a little space, reduce damping, and notice when the room begins to behave like one instrument.",
             ],
             "maxim": "A scheduled wump may still be sincere if the phase is honest.",
@@ -441,7 +441,7 @@ book(
             "epigraph": "A 7% change in spirit is not small if it is applied at the right point.",
             "body": [
                 "Some systems are linear: more input, more output. People are only linear when they are pretending. In actual rooms, a joke, a delay, a window opened at the right minute can reorganize the whole evening. This is sensitive dependence, which is the dignified name for ‘how did that help?’",
-                "Improvised whumps scare planners because they cannot be budgeted. They should scare planners a little. They should not be banned. A life with no improvisation is a closed-form equation that has forgotten it is being lived by an animal.",
+                "Improvised wumps scare planners because they cannot be budgeted. They should scare planners a little. They should not be banned. A life with no improvisation is a closed-form equation that has forgotten it is being lived by an animal.",
                 "The Institute’s 7% instruction is a chaos-aware tool. You do not need a new life. You need a perturbation. Increase the spirit of one existing motion. If the system is near a threshold, the small change will not look small from the inside of next month.",
                 "Document perturbations the way a lab documents anomalies: briefly, without mythology. Mythology is how a useful accident becomes a prison of identity.",
             ],
@@ -452,12 +452,12 @@ book(
             "title": "Field Equations of Aliveness",
             "epigraph": "The model is wrong. The pulse is not.",
             "body": [
-                "We may now assemble a field equation and then refuse to worship it. Let a life contain whumps W₁, W₂, … separated by intervals Δt₁, Δt₂, …. Let L, aliveness, be a function not of the maximum W but of whether any Δt becomes so long that the organism forgets the sensation of being inhabited.",
+                "We may now assemble a field equation and then refuse to worship it. Let a life contain wumps W₁, W₂, … separated by intervals Δt₁, Δt₂, …. Let L, aliveness, be a function not of the maximum W but of whether any Δt becomes so long that the organism forgets the sensation of being inhabited.",
                 "In other words: minimize oblivion, not boredom. Boredom is compression and can be used. Oblivion is a measurement outage. You cannot steer by a gauge that has gone dark.",
-                "The mature whumper therefore stops asking how to maximize W and asks what rhythm of intensity and recovery makes a life feel occupied from the inside. This is the difference between collecting peaks and developing a pulse. Peaks are souvenirs. A pulse is an instrument still in use.",
+                "The mature wumper therefore stops asking how to maximize W and asks what rhythm of intensity and recovery makes a life feel occupied from the inside. This is the difference between collecting peaks and developing a pulse. Peaks are souvenirs. A pulse is an instrument still in use.",
                 "If this sounds less exciting than a manifesto, good. Manifestos are high-I, low-C. A pulse can be taken to work.",
             ],
-            "maxim": "A life without whumping is merely time passing — even if the graphs look busy.",
+            "maxim": "A life without wumping is merely time passing — even if the graphs look busy.",
             "exercise": "Sketch your last fourteen days as a crude waveform, peaks and rests only. Where is the longest flatline? That interval is your next experimental site. Do not fill it with spectacle. Fill it with a complete small cycle.",
         },
     ],
@@ -480,7 +480,7 @@ book(
         "If a partner, child, or coworker becomes the subject of your ‘experiments’ without consent, you are not doing science. You are doing a monologue with clipboards.",
     ],
     closing=[
-        "The Final Model, such as it is: let Wₙ be a sequence of whumps and Δtₙ the rests between them. A viable wump life is not one in which W is maximized, but one in which no interval becomes so long that the person forgets what aliveness feels like.",
+        "The Final Model, such as it is: let Wₙ be a sequence of wumps and Δtₙ the rests between them. A viable wump life is not one in which W is maximized, but one in which no interval becomes so long that the person forgets what aliveness feels like.",
         "Take a large wump when the moment deserves it. Take a small one when the day is dull. Rest afterward. Re-enter motion before stillness becomes disappearance. This is maintenance.",
         "Keep your instruments humble. Keep your recoveries on the calendar. Keep humor and seriousness in the same pocket, because either one alone will make you impossible to live with, including for yourself.",
     ],
@@ -489,9 +489,9 @@ book(
 
 
 book(
-    slug="the-annals-of-whumping",
-    title="THE ANNALS OF WHUMPING",
-    running="THE ANNALS OF WHUMPING",
+    slug="the-annals-of-wumping",
+    title="THE ANNALS OF WUMPING",
+    running="THE ANNALS OF WUMPING",
     subtitle="From the first drum to the present pulse:<br/>a history of humanity’s oldest undocumented practice",
     volume="Volume IV of the Wump To Live Library",
     accent="#6b3a12",
@@ -502,9 +502,9 @@ book(
     preface_epigraph="The record is incomplete. The pulse is not.",
     preface_attr="Marginal note in a borrowed chronicle",
     preface=[
-        "History, as usually taught, prefers wars, inventions, and men who sat for portraits. Whumping left fewer portraits. It left drums with worn heads, festival calendars, factory whistles, dance floors, and the mysterious human habit of making an ordinary night matter more than it had to.",
+        "History, as usually taught, prefers wars, inventions, and men who sat for portraits. Wumping left fewer portraits. It left drums with worn heads, festival calendars, factory whistles, dance floors, and the mysterious human habit of making an ordinary night matter more than it had to.",
         "This volume argues that the wump is among humanity’s oldest practices: the deliberate intensification of an interval so that a life may remember it was lived. People have always needed contrast. They have always needed recovery. They have always, sooner or later, hit something until it rang.",
-        "We will not pretend that every feast was holy or every riot a sacrament. Some whumps were cruel. The Institute does not baptize them. We study the pulse, including its failures, because a species that cannot tell a festival from a catastrophe will keep producing both and calling the result ‘the times.’",
+        "We will not pretend that every feast was holy or every riot a sacrament. Some wumps were cruel. The Institute does not baptize them. We study the pulse, including its failures, because a species that cannot tell a festival from a catastrophe will keep producing both and calling the result ‘the times.’",
         "Read this as a chronicle of intervals. Empires rise. The drum continues. That is the plot.",
     ],
     chapters=[
@@ -524,9 +524,9 @@ book(
             "title": "Agricultural Intervals and the Invention of the Calendar",
             "epigraph": "Once you can store grain, you can schedule a wump. This is both gift and trap.",
             "body": [
-                "Agriculture did not invent intensity. It invented surplus, waiting, and the year as a repeating machine. Planting and harvest are among the oldest large-scale whumps: compression through labor, release through bringing in, recovery through whatever feast the stores allowed.",
+                "Agriculture did not invent intensity. It invented surplus, waiting, and the year as a repeating machine. Planting and harvest are among the oldest large-scale wumps: compression through labor, release through bringing in, recovery through whatever feast the stores allowed.",
                 "The calendar is a wump technology. It says: not now, then. It protects planting from perpetual festival and festival from being forgotten. It also, eventually, becomes a tyrant that cannot hear a pulse that arrives off-schedule. Every later bureaucracy is a calendar that has grown a building.",
-                "Harvest whumps could be generous. They could also be extraction wearing a wreath. History is not a children’s pageant. The same interval that bound a village could bind someone to a field that was not theirs. When we praise rhythm, we must ask whose year it was.",
+                "Harvest wumps could be generous. They could also be extraction wearing a wreath. History is not a children’s pageant. The same interval that bound a village could bind someone to a field that was not theirs. When we praise rhythm, we must ask whose year it was.",
                 "Still, the agricultural lesson remains: a culture that cannot mark completion will live in undifferentiated labor. Undifferentiated labor is a long flatline with better tools.",
             ],
             "maxim": "The wump interval is a rhythm, not a deadline — though harvest disagrees in a loud voice.",
@@ -534,9 +534,9 @@ book(
         },
         {
             "title": "Classical Misreadings: Oracles, Arenas, and the Public Pulse",
-            "epigraph": "The ancients whumped in public and called it politics, sport, or fate.",
+            "epigraph": "The ancients wumped in public and called it politics, sport, or fate.",
             "body": [
-                "In the city-states that later Europeans decided were the beginning of seriousness, whumping took civic form. Processions, theater, games, and oracles were machines for moving a crowd through compression and release. A tragedy is a guided wump. So is a race. So, less admirably, is a spectacle that requires someone else’s suffering to complete the waveform.",
+                "In the city-states that later Europeans decided were the beginning of seriousness, wumping took civic form. Processions, theater, games, and oracles were machines for moving a crowd through compression and release. A tragedy is a guided wump. So is a race. So, less admirably, is a spectacle that requires someone else’s suffering to complete the waveform.",
                 "The oracle is interesting because it formalized uncertainty as a ritual. People arrived compressed with questions and left with language. Sometimes the language was useful. Sometimes it was theater with better lighting. The Institute recognizes both as historical facts.",
                 "What the classical world understood, and later office culture forgot, is that a public needs shared peaks or it will invent unsavory ones. If there is no play, there will be a rumor. If there is no feast, there will be a faction. The pulse will out.",
                 "We inherit their architecture and their errors. Columns are easy to copy. Wisdom about rest is harder. Many a modern person lives like a minor senator: always in forum, never in recovery.",
@@ -561,7 +561,7 @@ book(
             "epigraph": "They did not ban it. They renamed it ‘enthusiasm’ and disapproved.",
             "body": [
                 "Enlightenment, in its better moods, gave us measurement, rights, and the courage to distrust a story simply because a man in a wig had told it. In its worse moods, it treated intensity as a rural embarrassment. The pulse was suspected of being unhygienic.",
-                "This produced a curious historical creature: the person who can explain everything and inhabit nothing. Coffeehouses hummed. Salons glittered. Meanwhile the body, unconsulted, continued to need contrast. When official culture under-whumps, unofficial culture over-whumps. See: every era’s panic about dancing.",
+                "This produced a curious historical creature: the person who can explain everything and inhabit nothing. Coffeehouses hummed. Salons glittered. Meanwhile the body, unconsulted, continued to need contrast. When official culture under-wumps, unofficial culture over-wumps. See: every era’s panic about dancing.",
                 "Reason is not the enemy of the wump. Reason is how you keep a wump from becoming a mob. The enemy is a reason that has forgotten it lives in an animal. An animal will eventually chew through the lecture.",
                 "The Institute honors this period by insisting on method. We are, in that sense, children of the Enlightenment: we want a claim that can be lived. We are also children of the drum: we want you to inhabit a Tuesday long enough to feel it.",
             ],
@@ -574,7 +574,7 @@ book(
             "body": [
                 "Industry gathered human hours with unprecedented success. It also flattened them. The factory whistle is a perfect historical object: a communal pulse in service of production rather than inhabitation. Everyone heard the same interval. Not everyone owned the interval.",
                 "This is when recovery became suspicious. Rest looked like theft from the machine. Play looked like a leak. The weekend had to be invented, fought for, and then, in later decades, quietly filled with other kinds of work until it resembled a smaller factory with better lighting.",
-                "Labor songs, dances after shifts, and the stubborn persistence of jokes at the machine are not decorations on the record. They are evidence that people will install micro-whumps inside hostile waveforms in order not to disappear. History’s unofficial thesis: the pulse tries to live.",
+                "Labor songs, dances after shifts, and the stubborn persistence of jokes at the machine are not decorations on the record. They are evidence that people will install micro-wumps inside hostile waveforms in order not to disappear. History’s unofficial thesis: the pulse tries to live.",
                 "If your present job feels like a whistle you did not consent to, you are not being poetic. You are being accurate. The question, as always, is whether you can restore interval without pretending the whistle is a hymn.",
             ],
             "maxim": "Recovery converts impact into memory. Denied recovery converts impact into injury, then into ‘just how it is.’",
@@ -601,7 +601,7 @@ book(
                 "The useful inheritance of self-help is permission: you may treat your own pulse as a subject of study. The dangerous inheritance is the belief that optimization is the same as inhabitation. A fully optimized person may still be absent. The annals are full of absent people with excellent systems.",
                 "The Wump Institute stands in this late tradition and knows it. A seminar, a retreat, a library: these are how a public pulse is rebuilt when the old furniture of gathering is gone.",
             ],
-            "maxim": "A life without whumping is merely time passing — a sentence every century rewrites and then forgets.",
+            "maxim": "A life without wumping is merely time passing — a sentence every century rewrites and then forgets.",
             "exercise": "Borrow one ‘village’ practice this week: eat with someone without a device, or mark a completion out loud. You are not being retro. You are being statistically normal for most of human time.",
         },
         {
@@ -611,7 +611,7 @@ book(
                 "Then came a machine that could offer a little rebound at any hour, which is another way of saying it could prevent compression from ever completing. The feed is not evil. It is a waveform with no rest, which in wump mechanics is a contradiction and in business is a feature.",
                 "Historically, even carnival ended. Dawn arrived, sticky and unimpressed. The screen does not have to arrive at dawn. It can extend Tuesday until Tuesday has no edges. People began to report a new symptom: having seen everything and been in nothing.",
                 "The Institute’s position is not Luddite. Tools that carry other people’s pulses can be a mercy — the song, the letter, the far-away face. The danger is substituting stimulation for interval. Stimulation is I without C. It spikes. It does not harvest.",
-                "Every age thinks its distraction is unprecedented. Ours happens to be portable. The correction is old: restore contrast. Let some hours be unimproved. Let some whumps finish. Put the machine down as if it were a festival that has, at last, reached its hymn.",
+                "Every age thinks its distraction is unprecedented. Ours happens to be portable. The correction is old: restore contrast. Let some hours be unimproved. Let some wumps finish. Put the machine down as if it were a festival that has, at last, reached its hymn.",
             ],
             "maxim": "Rest is not anti-wump; rest is the loading screen. The pun is intentional and, unfortunately, accurate.",
             "exercise": "Close one infinite interval tonight. Choose a last thing. Let it be last. History will not record this, which is why it will work.",
@@ -621,9 +621,9 @@ book(
             "epigraph": "We are not the first to need a drum. We may be the first to need permission to hear one.",
             "body": [
                 "The present is not a peak in the story. It is another interval. People still gather, still joke past reason, still cook with theatrical seriousness, still begin things at 11:47 p.m. The practice did not die. It lost its public furniture and now has to be rebuilt in kitchens, seminars, walks, and books that can be used.",
-                "If there is a task for the living, it is to reinstall interval without reinstalling cruelty. To have feast without requiring a victim. To have rhythm without a whistle that owns you. To have inner whumps that do not become performances, and public whumps that do not become mobs.",
+                "If there is a task for the living, it is to reinstall interval without reinstalling cruelty. To have feast without requiring a victim. To have rhythm without a whistle that owns you. To have inner wumps that do not become performances, and public wumps that do not become mobs.",
                 "The Institute offers seminars not because it invented the pulse but because the pulse, in this century, is lonely. Lonely pulses get strange. They either vanish or explode. Instruction is a way of saying: you are not the first, you will not be the last, here is how people have kept the drum from becoming a weapon.",
-                "History does not end. It recovers, if we let it. Then it whumps again, smaller or larger, and someone writes it down as if it were new.",
+                "History does not end. It recovers, if we let it. Then it wumps again, smaller or larger, and someone writes it down as if it were new.",
             ],
             "maxim": "There is no final wump. There is only the practice of returning — the oldest plot we have.",
             "exercise": "Tell one true story of a wump from your own life to one other person, without improving it into a legend. You have now entered the annals. They are mostly oral. They always were.",
@@ -648,7 +648,7 @@ book(
         "Bring the annals to the conflict seminar. Many fights are two calendars refusing to share a Tuesday.",
     ],
     closing=[
-        "The chronicle’s last theorem is the same as the first book’s, because history is not a different species of time. Let a people contain a sequence of whumps separated by intervals. A viable culture is not one in which spectacle is maximized, but one in which no interval becomes so long that the living forget what aliveness feels like.",
+        "The chronicle’s last theorem is the same as the first book’s, because history is not a different species of time. Let a people contain a sequence of wumps separated by intervals. A viable culture is not one in which spectacle is maximized, but one in which no interval becomes so long that the living forget what aliveness feels like.",
         "You have now been issued four volumes in service of a maintenance problem. Use them. Walk. Ring something. Recover. Return.",
         "The drum is still there. It was never in the museum. It was in the hands.",
     ],

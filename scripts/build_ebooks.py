@@ -296,7 +296,7 @@ def build_book(book):
     for para in book["disclaimer"]:
         story.append(p(para, S["body_first"] if para == book["disclaimer"][0] else S["body"]))
     story.append(Spacer(1, 0.3 * inch))
-    story.append(p("Published by the Institute for Applied Whumping<br/>First edition, 2026", S["center_i"]))
+    story.append(p("Published by the Institute for Applied Wumping<br/>First edition, 2026", S["center_i"]))
     story.append(PageBreak())
 
     story.append(Spacer(1, 0.35 * inch))
