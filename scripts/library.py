@@ -138,7 +138,7 @@ book(
         ("The Great Wump", "A large completed cycle. Rare. A poor diet if eaten alone."),
     ],
     notes=[
-        "This is the field manual. If you are new, start here and then attend the Opening Interval. If you are not new and have become theoretical, start here anyway. Theory is a fine instrument. It is a poor pulse.",
+        "This is the field manual. If you are new, start here and then attend The First Wump. If you are not new and have become theoretical, start here anyway. Theory is a fine instrument. It is a poor pulse.",
         "The 7% instruction is not a demand for spectacle. It is a correction for people who will not move until the movement is large enough to photograph. Increase spirit, not display.",
         "If this volume makes you want to found a competing institute, sit down. That is a false wump. Take a walk instead.",
         "Pair with Volume II when the problem is interior, Volume III when the problem is measurement, Volume IV when the problem is thinking you invented the drum.",
@@ -308,7 +308,7 @@ book(
     notes=[
         "Students often arrive hoping the spiritual volume will make them calmer. Calm may occur. It is a side effect, not a diploma. The work is contact: with pressure, with breath, with the next honest hour.",
         "If a chapter makes you want to announce a new personality, wait overnight. The chamber is allergic to rebrands. It prefers returns.",
-        "Pair this volume with the Opening Interval seminar if your inner life has become theoretical. Pair it with silence if your inner life has become a press conference.",
+        "Pair this volume with The First Wump if your inner life has become theoretical. Pair it with silence if your inner life has become a press conference.",
         "The Institute does not grade souls. If you must keep score, keep score of completions, not of peaks.",
     ],
     closing=[
